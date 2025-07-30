@@ -27,7 +27,7 @@ In the post-apocalyptic Exclusion Zone, no humans remain. Only cats. Chubby, gru
 1. Fork or clone the repo
 2. Push to `main` branch
 3. Go to **Repository Settings → Pages → Source → Deploy from `main`**
-4. Your site will be available at `https://3069603.github.io/fatker-3d/`
+4. Your site will be available at `https://3069603.github.io/fatker-3D/`
 
 ---
 
